@@ -1,3 +1,5 @@
 Blue
 Red
-yellow
+pink
+white
+gray
